@@ -1,2 +1,3 @@
-# bezier-curve-editor
-Edit a simple 2D OpenGL animation in real-time using Bézier curves.
+# Bézier-curve Editor
+
+Simple 2D OpenGL animation loop. Object pathing via Bézier curve, with optional GUI for editing the curve's control points.
